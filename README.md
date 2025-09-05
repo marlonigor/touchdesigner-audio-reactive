@@ -24,7 +24,7 @@ Neste projeto, o som atua como gatilho e controlador dos visuais.
 Este componente captura áudio e traduz informações como amplitude e espectro de frequências em sinais que podem ser usados para controlar visuais.
 Ele serve como a ponte entre o som e a imagem, permitindo que diferentes parâmetros visuais sejam animados de acordo com as características sonoras.
 
-## Componente: DoubleFeedback (.tox)
+## Componente: Double_Feedback (.tox)
 
 O Double Feedback é um recurso visual que utiliza o princípio de realimentação da imagem no TouchDesigner.
 Na prática, ele funciona como uma “câmera apontada para a própria tela”: a imagem anterior é usada como insumo para gerar a próxima, criando padrões dinâmicos, caleidoscópicos e hipnóticos.
