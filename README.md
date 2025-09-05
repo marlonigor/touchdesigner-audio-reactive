@@ -2,7 +2,7 @@
 
 A ideia é mostrar como sinais sonoros podem ser transformados em elementos visuais dinâmicos.
 
-<a href="https://imgbox.com/EYqtSVeS" target="_blank"><img src="https://thumbs2.imgbox.com/bf/fb/EYqtSVeS_t.gif" alt="image host"/></a>
+![me](https://github.com/marlonigor/touchdesigner-audio-reactive/blob/main/audiovisualsgif.gif)
 
 ## O que é áudio-reatividade?
 
